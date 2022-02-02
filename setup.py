@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='neurotools_data',
-      version='1',
+      version='1.2',
       description='The associated reference and default data for neurotools',
       url='http://github.com/sahahn/neurotools_data',
       author='Sage Hahn',
@@ -9,5 +9,5 @@ setup(name='neurotools_data',
       license='MIT',
       packages=find_packages(),
       include_package_data=True,
-      package_data={'neurotools_data': ['neurotools_data/*/*/*', 'neurotools_data/*/*']},
+      package_data={'neurotools_data': ['*/*/*', '*/*']},
       package_dir={'neurotools_data': 'neurotools_data'})
