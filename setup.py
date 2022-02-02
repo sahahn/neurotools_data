@@ -9,5 +9,5 @@ setup(name='neurotools_data',
       license='MIT',
       packages=find_packages(),
       include_package_data=True,
-      package_data={'data': ['*/*/*', '*/*']},
+      package_data={'neurotools_data': ['neurotools_data/*/*/*', 'neurotools_data/*/*']},
       package_dir={'neurotools_data': 'neurotools_data'})
