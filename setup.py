@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(name='neurotools_data',
-      version='1.2',
+      version='1.2.1',
       description='The associated reference and default data for neurotools',
       url='http://github.com/sahahn/neurotools_data',
       author='Sage Hahn',
