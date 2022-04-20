@@ -53,13 +53,13 @@ pericc,pericalcarine
 postcn,postcentral
 ptcate,posteriorcingulate
 precn,precentral
-pc,precuneus
 rracate,rostralanteriorcingulate
 rrmdfr,rostralmiddlefrontal
 sufr,superiorfrontal
 supl,superiorparietal
 sutm,superiortemporal
-sm,supramarginal
 frpole,frontalpole
 tmpole,temporalpole
 trvtm,transversetemporal
+pc,precuneus
+sm,supramarginal

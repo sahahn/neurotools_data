@@ -1,3 +1,20 @@
+gyrus and sulcus,g_and_s
+gyrus and sulci,g_and_s
+gyrus,g
+sulcus,s
+sulci,s
+anterior,ant
+posterior,post
+cingulate,cingul
+superior,sup
+fronto marginal,frontomargin
+para central,paracentral
+post central,postcentral
+pre central,precentral
+pre cuneus,precuneus
+sub callosal,subcallosal
+middle occipital,oc_middle
+intra pariet,intrapariet
 g.and.s.frontomargin,g_and_s_frontomargin
 g.and.s.occipital.inf,g_and_s_occipital_inf
 g.and.s.paracentral,g_and_s_paracentral
@@ -220,3 +237,8 @@ s_subparietal,s_subparietal
 s_temporal_inf,s_temporal_inf
 s_temporal_sup,s_temporal_sup
 s_temporal_transverse,s_temporal_transverse
+Fronto-marginal gyrus and Sulcus,G_and_S_frontomargin 
+Inferior occipital gyrus and sulcus,g_and_s_occipital_inf
+Paracentral lobule and sulcus,G_and_S_paracentral
+Subcentral gyrus and sulci,G_and_S_subcentral
+Transverse frontopolar gyri and sulci,G_and_S_transv_frontopol
