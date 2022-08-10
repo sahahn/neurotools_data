@@ -1,4 +1,5 @@
 unknown,unknown
+banks of superior temporal sulcus,bankssts
 bankssts,bankssts
 caudalanteriorcingulate,caudalanteriorcingulate
 caudalmiddlefrontal,caudalmiddlefrontal
