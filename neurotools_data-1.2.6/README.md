@@ -1,1 +1,0 @@
-Seperate data for the https://github.com/sahahn/neurotools package
